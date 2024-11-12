@@ -1,3 +1,3 @@
-setTimeout((function () {
+/*setTimeout((function () {
     alert("123");
-}), 1000);
+}), 1000);*/
