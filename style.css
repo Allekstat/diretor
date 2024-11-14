@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1{
     margin: 30px;
     padding: 30px;
@@ -26,3 +27,29 @@ img {
     color: black;  
 }
 
+=======
+body{
+        background-color: whitesmoke;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    color: darkred;
+    font-style: italic;
+}
+
+p{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
+
+img{
+    width: 300px;
+    border-style: solid;
+    border-color: darkred;
+    border-radius: 10%;
+}
+>>>>>>> Alisson-2-Teste
