@@ -7,22 +7,10 @@ body {
 	margin: 0;
 }
 
-#menu {
-	display: none;
+main {
+	padding: 16px;
 }
 
-.menu-aberto {
-	display: block;
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100vw;
-	height: 100vh;
-	background-color: #00000080;
-}
-
-.menu-aberto > * {
-	padding: 8px;
-	color: #fff;
-	background-color: #ffffff80;
+:root {
+	scrollbar-width: none;
 }
